@@ -19,7 +19,6 @@
  🔸 Express Js<br/>
  🔸 SQL<br/>
 <br/>
-- 🌱 Estoy aprendiendo CSS <br/>
 - 📫 Cómo contactarme: E-mail: Cesar.Alcoholado@gmail.com <br/>
 - ⚡ Dato curioso: <b>Egresado de Henry bootcamp</b> <br/>
 
