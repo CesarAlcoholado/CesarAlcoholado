@@ -3,14 +3,14 @@
   <b>desarrollador Front-End 💻✔</b><br/>
 <img src="https://i.pinimg.com/564x/c9/06/e9/c906e9f39995f859bbbf47087928341d.jpg" alt="react-banner">
 </p>
-//Eng
+//Eng <br/>
 📚 I am 29 years old and I am a Front-end Web Developer graduated from Henry bootcamp, where I learned
 to work with technologies like React and Redux on the Front-end and how to work in teams with agile
 methodologies like SCRUM. I’m also a system analyst student.<br/>
 🚀 Able to work under pressure and always willing to solve problems and look for scalable solutions. I have
 analytical capacity and interest in constant learning.
 
-//Spa
+//Spa <br/>
 📚 Mi nombre es César Alcoholado, tengo 29 años, soy desarrollador Full Stack orientado a Front End y estudiante de la Tecnicatura Superior en Análisis de Sistemas. Actualmente resido en Bahia Blanca, provincia de Buenos Aires, Argentina.<br/>
 🚀 Me apasiona la programación y estoy dispuesto a seguir aprendiendo nuevas tecnologias y a adquirir conocimientos.<br/>
 <br/>
