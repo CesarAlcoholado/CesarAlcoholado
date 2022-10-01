@@ -4,10 +4,8 @@
 <img src="https://i.pinimg.com/564x/c9/06/e9/c906e9f39995f859bbbf47087928341d.jpg" alt="react-banner">
 </p>
 //Eng <br/>
-📚 I am 29 years old and I am a Front-end Web Developer graduated from Henry bootcamp, where I learned
-to work with technologies like React and Redux on the Front-end and how to work in teams with agile
-methodologies like SCRUM. I’m also a system analyst student.<br/>
-🚀 Able to work under pressure and always willing to solve problems and look for scalable solutions. I have
+📚  I am 29 years old and I am a Front-end Web Developer graduated from Henry bootcamp, where I learned to work with technologies such as React-Redux and how to work in teams with agile methodologies like SCRUM. I’m also a system analyst student.<br/>
+🚀 Able to work under pressure, always willing to solve problems and look for scalable solutions. I have
 analytical capacity and interest in constant learning.
 
 //Spa <br/>
