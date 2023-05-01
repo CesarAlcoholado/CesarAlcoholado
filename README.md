@@ -18,12 +18,7 @@ analytical capacity and interest in constant learning.
  🔹 JavaScript<br/>
  🔹 HTML<br/>
  🔹 CSS<br/>
- <br/>
-🔶 Back-End:<br/>
- 🔸 Node Js<br/>
- 🔸 Sequelize<br/>
- 🔸 Express Js<br/>
- 🔸 SQL<br/>
+
 <br/>
 - 📫 Cómo contactarme: E-mail: Cesar.Alcoholado@gmail.com <br/>
 - ⚡ Dato curioso: <b>Egresado de Henry bootcamp</b> <br/>
@@ -31,5 +26,4 @@ analytical capacity and interest in constant learning.
 
 [<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/CesarAlcoholado)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/cesar-a-656161239/)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CesarAlcoholado)  
 
