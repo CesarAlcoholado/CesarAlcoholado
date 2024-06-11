@@ -23,6 +23,6 @@ analytical capacity and interest in constant learning.
 - 📫 Cómo contactarme: E-mail: Cesar.Alcoholado@gmail.com <br/>
 
 
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/CesarAlcoholado)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/cesar-a-656161239/)  
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/cesar-a-656161239/)  
 
 
